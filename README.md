@@ -13,5 +13,8 @@ Our first approach to this problem may not be effective. Particularly because we
 ### Experiment 1 ###
 
 Machine learning architecture: "Vanilla" DCGAN
+
 Hyperparameters: 
+
 Other Meta Data: 
+
